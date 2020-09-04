@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+.custom-bg{
+	
+	background: #e91e63;
+}
+
+.Admincss .card {
+	
+	border:1px solid #e91e63;
+}
+
+.Admincss .card:hover {
+	background-color: #e2e2e2;
+	cursor: pointer;
+}
+
+.list-group-item.active{
+	
+	background: #e91e63;
+	border-color:#e91e63;
+	
+}
+
+.Discount-lab{
+	font-size: 10px;
+	font-style: italic;
+
+}
+.Product:hover {
+	background-color: #e2e2e2;
+	cursor: pointer;
+	
+}
+
+
+
+
+
